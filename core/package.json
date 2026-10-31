@@ -22,7 +22,7 @@
     "@nanostores/sql": "0.6.0",
     "@slowreader/api": "workspace:*",
     "@slowreader/server": "workspace:*",
-    "dompurify": "3.4.15",
+    "dompurify": "3.4.17",
     "jsdom": "30.0.1",
     "just-debounce-it": "3.2.0",
     "lz-string": "1.5.0",
